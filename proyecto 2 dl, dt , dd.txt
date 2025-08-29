@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Lista de ingredientes">
+  <title>Lista de ingredientes</title>
+</head>
+<body>
+  <h1>Lista de ingredientes</h1>
+  <p>Ingredientes para la pizza</p>
+
+  <h2>Medidas:</h2>
+  <dl>
+    <dt>Flour</dt>
+    <dd>2 cups</dd>
+    <dd>
+      <img src="https://content.elmueble.com/medio/2024/04/08/pizza-de-queso-de-cabra-y-beicon_3387b47b_240408110756_900x900.jpg" 
+           alt="pizza" width="200" height="200">
+    </dd>
+
+    <dt>Sugar</dt>
+    <dd>1/2 cup</dd>
+  </dl>
+</body>
+</html>

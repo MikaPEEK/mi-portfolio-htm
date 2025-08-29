@@ -1,0 +1,33 @@
+** start of index.html **
+
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+     <title>SMASH BURGER</title>
+     <meta charset="UTF-8">
+     </head>
+     <body>
+       <h1> SMASH BURGER RECEPIE</h1>
+       <p> Learn how to make a lazy edge smash</p>
+       <h2>Ingredients</h2>
+       <ul>
+         <li>bun</li>
+         <li>cheese</li>
+         <li>ground beef</li>
+         <li>pickles</li>
+         <li>burger sauce</li>
+         <h2>Instructions</h2>
+           <ol>
+             <li> <em>toast</em> buns</li>
+             <li> <a href="https://www.youtube.com/shorts/DfskVcoMzwo" target="_blank">smash </a> the beef with onions</li>
+             <li>add pickled + sauce on bun</li>
+             <li>flip patty and add the cheese</li>
+             <li> serve</li>
+             <img src="https://images.unsplash.com/photo-1607013251379-e6eecfffe234?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="smash burger">
+             </body>
+             </html>
+
+  
+
+** end of index.html **
+

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Mi Vlog personal" />
+  <title>Mi Vlog personal</title>
+</head>
+<body>
+  <h1>Mi Vlog personal</h1>
+  <p>A continuación presentaré mi CV y aficiones</p>
+
+  <h2>Hobbies</h2>
+  <ol>
+    <li><a href="https://www.counter-strike.net/cs2" target="_blank">Playing CS2</a></li>
+    <li><a href="https://www.espn.com/boxing/" target="_blank">Boxing</a></li>
+    <li><a href="https://www.youtube.com/shorts/oOSLjJYYecM" target="_blank">Crossfit</a></li>
+  </ol>
+
+  <h2>Specialties</h2>
+  <ul>
+    <li>Making Burgers</li>
+    <li>Languages</li>
+  </ul>
+
+  <section>
+    <figure>
+      <img src="https://www.sargento.com/assets/Uploads/Recipe/Image/burger_0__FocusFillWyIwLjAwIiwiMC4wMCIsODAwLDQ3OF0_CompressedW10.jpg" alt="burger">
+      <figcaption>Delicious Burgers</figcaption>
+    </figure>
+  </section>
+</body>
+</html>

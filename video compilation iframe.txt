@@ -1,0 +1,59 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation</title>
+</head>
+
+<body>
+    <main>
+        <h1>CS2 Clips</h1>
+        <p>funny and pro clips from cs2</p>
+
+        <section>
+        <h2>Ohnepixel cant hit</h2>
+            <p>Ohnepixel trying to hit invisible players</p>
+            <iframe
+            src="https://www.youtube.com/embed/05kNUSs55nY"
+            width="200"
+            height="200"
+            title="funny ohne"
+            allowfullscreen>
+            </iframe>
+            </section>
+            <section>
+              <h2>WICADIA deletes MONGOLZ with PURE AIM</h2>
+              <p>aim clip d2</p>
+              <iframe
+              src="https://www.youtube.com/embed/RZ0htMhjTO0"
+              width="200"
+              height="200"
+              title="aim"
+              allowfullscreen>
+              </iframe>
+              <p>aim clip</p>
+            </section>
+
+            <section>
+                <h2>INSTASMOKE mirage</h2>
+                <p>smoke tutorial</p>
+                <iframe
+                src="https://www.youtube.com/embed/nNsjZDIiHRw"
+                width="200"
+                height="200"
+                title="smoke"
+                allowfullscreen>
+                </iframe>
+
+            </section>
+        </main>
+
+</body>
+
+</html>
+
+** end of index.html **
+
