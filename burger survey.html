@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title"> Survey Form</h1>
+    <p id="description">Evaluate our Burgers!
+</p>
+<form id="survey-form" action="" method="post">
+  <label id="name-label"
+  for="name">Your name:</label>
+  <input type="text"
+   id="name"
+    name="name"
+   placeholder="Ex. Michael Litwin" required><br>
+<br>
+  <label id="email-label" for="email">Email:</label>
+  <input type="email"
+   id="email"
+    name="email"
+     placeholder="Ex: myemail@gmail.com" required><br><br>
+  <label id="number-label" for="number">Your Age:</label>
+  <input type="number"
+   id="number"
+    name="number"
+     min="3" max="100" 
+     placeholder="Ex: 25">
+     <br>
+     <br>
+     <fieldset>
+       <legend>Food</legend>
+       <label
+        for="Rating">Qualify Your Burger
+        </label>
+       <select name="rating" id="dropdown">
+         <option value="poor">Poor</option>
+         <option value="so-so">So so</option>
+         <option value="flavourful">Flavourful</option>
+         <option selected value="very-rich">Very Rich</option>
+         </select>
+         </fieldset><br>
+         <fieldset>
+           <legend>Service (1 being the worst and 5 the best)</legend>
+           <label for="1">1</label>
+           <input type="radio" id="1" name="service" value="1">
+           <label for="2">2</label>
+           <input type="radio" id="2" name="service" value="2">
+           <label for="3">3</label>
+           <input type="radio" name="service" id="3" value="3">
+           <label for="4">4</label>
+           <input type="radio" name="service" id="4" value="4">
+           <label for="5">5</label>
+           <input type="radio" id="5" value="5" name="service">
+           </fieldset><br>
+           <fieldset>
+             <legend>What would've you added?</legend>
+             <label for="cheese">Cheese</label>
+             <input type="checkbox" id="cheese" name="extras" value="cheese">
+             <label for="bacon">Bacon</label>
+             <input type="checkbox" name="extras" id="bacon" value="bacon">
+             </fieldset><br>
+
+           <fieldset>
+             <legend>Leave your comments here!</legend>
+             <label for="comments">Your opinion matters</label><br>
+
+             <textarea cols="40" rows="5" name="comments">
+               </textarea><br>
+               
+               <button id="submit" type="submit">Submit</button>
+               </form>
+
+  </body>
+</html>
+
+
